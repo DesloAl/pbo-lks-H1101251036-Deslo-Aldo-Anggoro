@@ -1,4 +1,4 @@
-?php
+<?php
 namespace App\Repositories;
 use App\Contracts\CategoryRepositoryInterface;
 use App\Models\Category;
